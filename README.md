@@ -61,3 +61,11 @@ Because sometimes, staring into the abyss is the only way to truly see.
 _“Man stands face to face with the irrational. He feels within him his longing for happiness and for reason.  
 The absurd is born of this confrontation between the human need and the unreasonable silence of the world.”_  
 — Albert Camus, *The Myth of Sisyphus*  
+
+---
+
+> Built while exploring an idea. Archived once I moved on to other things, but kept here as part of the learning process and experimentation trail.
+
+> Search `user:TempestAethel topic:concept-repo` to find all concept repositories I’ve made.
+
+---
